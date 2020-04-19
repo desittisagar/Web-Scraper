@@ -76,5 +76,5 @@ movies.to_csv("movies.csv")
 # print(votes)
 # print(us_gross)
 #print(movie_div)
-
+# https://hackernoon.com/how-to-build-a-web-scraper-with-python-step-by-step-guide-jxkp3yum
 #print(results)
